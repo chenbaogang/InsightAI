@@ -1,0 +1,13 @@
+.venv/
+venv/
+data/
+.env
+__pycache__/
+**/__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+tests/
+schema.*.sql
+Dockerfile
+.dockerignore
